@@ -1,0 +1,18 @@
+.conteudo{
+    background-color: blue;
+    display: flex; /*colocando elementos lado a lado */
+    /* tipos de alinhamento para linha:
+    center, space-between,space-evenly,space-around */
+
+    /*Alinhamento para coluna:
+    flex-direction:column;
+    align-itemns: center; */
+
+}
+
+.conteudo div {
+    margin: 10px;
+    padding: 10px;
+    background-color: chocolate;
+
+}
